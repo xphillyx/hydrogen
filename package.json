@@ -51,7 +51,7 @@
     ]
   },
   "dependencies": {
-    "@jupyterlab/services": "^0.52.0",
+    "@jupyterlab/services": "^1.1.4",
     "@nteract/commutable": "^3.0.4",
     "@nteract/display-area": "^3.1.7",
     "@nteract/transform-plotly": "^3.1.4",
